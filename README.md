@@ -6,6 +6,8 @@
 
 ## 📋 Índice
 
+---
+
 - [Descripción del Proyecto](#-descripción-del-proyecto)
 - [Funcionalidades](#-funcionalidades)
 - [Cómo Usar la Aplicación](#-cómo-usar-la-aplicación)

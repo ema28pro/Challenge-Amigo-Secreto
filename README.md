@@ -2,6 +2,8 @@
 
 ![Amigo Secreto](assets/amigo-secreto.png)
 
+---
+
 ## 📋 Índice
 
 - [Descripción del Proyecto](#-descripción-del-proyecto)
@@ -41,10 +43,8 @@ La aplicación permite a los usuarios agregar nombres de participantes y realiza
   - No permite nombres vacíos
   - No acepta nombres con espacios
   - No acepta nombres con números
-  - Previene duplicados
 - **📋 Lista Visual**: Muestra todos los participantes agregados en una lista ordenada
 - **🎲 Sorteo Aleatorio**: Selecciona aleatoriamente un participante de la lista
-- **📱 Interfaz Responsiva**: Diseño adaptable para diferentes dispositivos
 - **🎨 Diseño Moderno**: Interfaz limpia y atractiva con animaciones sutiles
 
 ### 🔧 Funcionalidades Técnicas
